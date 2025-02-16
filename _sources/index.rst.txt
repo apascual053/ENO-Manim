@@ -6,10 +6,15 @@
 ¡Bienvenido a la documentación de ENO-Manim!
 ============================================
 
+Esto es un repositorio de Aitor Pascual para aprender a utilizar Manim.
+
+Contenidos
+==========
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
-Contenidos
-==========
+   whatsManim
+   installing
+   firstSteps
